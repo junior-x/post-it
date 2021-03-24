@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: rgb(64, 2, 85);/*#282c34;*/
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +35,35 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.conteudo {
+  display: flex;
+}
+
+.app-button{
+  color: rgb(47, 12, 80);
+  text-align: center;
+  display: block;
+  width: 100%;
+  max-width: 350%;
+  box-sizing: border-box;
+  padding: 1rem 2rem;
+  border: 1px solid cyan;
+  border-radius: 1px;
+}
+
+.app-text_title{
+  color: #ffffff;
+  font-size: 6vmax;
+  padding: 3rem;
+}
+
+
+:root {
+  --primaria: #58a4b0;
+  --secundaria: #373f51;
+  --secundaria-ativa: #cccccc;
+  --fundo: #ffffff;
+  --fundo-detalhes: #ececec;
 }
