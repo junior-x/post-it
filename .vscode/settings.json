@@ -1,0 +1,6 @@
+{
+    "typescript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "prettier.documentSelectors": [
+        "JavaScriptReact"
+    ]
+}
