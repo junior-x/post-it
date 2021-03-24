@@ -1,10 +1,10 @@
 On my visual studio code did not see the ".JSX" extenxions file.
 
-###To get a quickly fiz for that you can try this:
+###To get a quickly fix for that you can try this:
 
 ###Go to ###settings.jsx
 
-###Then #copy  &   #paste  the code from here
+###Then #copy  &   #paste  the code from the file in this folder
 
 ###or
 
