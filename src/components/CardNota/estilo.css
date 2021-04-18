@@ -6,7 +6,8 @@
   background-color: rgb(253, 226, 137);
   border-radius: 4px;
   flex-wrap: wrap;
-  box-shadow: 0 0 4px rgba(0, 0, 0, 0.3);
+  box-shadow: 3px 3px 0px rgb(125, 38, 165),
+              5px 5px 0px rgb(168, 168, 168);
   padding: 30px;
 }
 .card-nota_cabecalho {
@@ -24,4 +25,8 @@
 .card-nota_titulo {
   font-size: 1.2em;
   margin-right: 12px;
+}
+
+.card-nota_delete {
+  justify-content: flex-end;
 }
