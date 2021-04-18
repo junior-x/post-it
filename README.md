@@ -1,5 +1,5 @@
 <!--Ta faltando estilo nisso eu to ligado-->
-# 🗂 POST-IT
+# 🩹 POST-IT
 _App developed with ReactJs_
 
 # Getting Started with Create React App
