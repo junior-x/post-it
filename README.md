@@ -1,7 +1,3 @@
-<!--Ta faltando estilo nisso eu to ligado-->
-# 🩹 POST-IT
-_App developed with ReactJs_
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

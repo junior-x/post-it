@@ -19,11 +19,12 @@
 .form-cadastro_submit {
   align-self: flex-end;
   width: 30%;
-  background-color: var(--secundaria);
+  background-color: rgb(255, 130, 178);
+  box-shadow: 3px 3px 1px 0px rgb(224, 60, 129);
   color: white;
   font-weight: 400;
 }
 
 .form-cadastro_submit:active {
-  background-color: var(--secundaria-ativa);
+  background-color: rgb(255, 52, 130);
 }

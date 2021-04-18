@@ -4,6 +4,8 @@
 
 .conteudo-principal{
   flex-grow: 3;
+  align-items: center;
+  background-color: rgb(125, 38, 165);
 }
 :root {
   --primaria: #58a4b0;
