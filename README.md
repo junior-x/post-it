@@ -2,7 +2,7 @@
 
 v 0.0.9
 
- App coded in ReactJs.
+ *App coded in ReactJs.*
 
 ![Image of App](/src/assets/img/screen-v1.PNG)
 
