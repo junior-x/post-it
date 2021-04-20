@@ -8,7 +8,7 @@ v 0.0.9
 
 ![Image of App](/src/assets/img/screen-v1.PNG)
 
-
+------
 
 # Getting Started with Create React App
 
