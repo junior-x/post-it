@@ -1,6 +1,6 @@
 
 .lista-notas {
-  background-color: rgb(125, 38, 165);
+  background-color: #552f63;
   flex-grow: 3;
   display: grid;
   grid-template-columns: auto auto auto;
