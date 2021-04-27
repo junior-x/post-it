@@ -2,7 +2,7 @@
 
 Development some post-it app for study intentions to train my ReactJs learning.
 
-v 0.0.9
+`v 0.0.9`
 
  *App coded in ReactJs.*
 
