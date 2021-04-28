@@ -1,6 +1,6 @@
 ## 🩹 Post-It
 
-Development some post-it app for study intentions to train my ReactJs learning.
+Some web application based with ReactJs to created right now just to upload some temporarie posts untilt the server get online.
 
 `v 0.0.9`
 
